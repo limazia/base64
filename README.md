@@ -1,5 +1,5 @@
 # base64
-Converter imagem em base64
+Converta imagem em base64
 
 ## Exemplo
 
